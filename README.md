@@ -18,3 +18,11 @@
 - This will take some time and show status of how many conversations converted.
 - This will produce a zip file. Save the zip file and extract.
 - Now you will have this exported in html, json, and markdown format.
+
+
+------
+
+### Acknowledgements
+This exporter is an extension and codes are forked from [chatgpt-chat-exporter](https://github.com/rashidazarang/chatgpt-chat-exporter). Original console exporter [code is here](https://gist.githubusercontent.com/ocombe/1d7604bd29a91ceb716304ef8b5aa4b5/raw/export-chatgpt-console.js).
+
+Track ChatGPT backend api [here](https://github.com/terminalcommandnewsletter/everything-chatgpt).
